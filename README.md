@@ -1,0 +1,2 @@
+# StudentManagmentSystem
+LOL I'M STUDENT MANAGMENT SYSTEM IN ITHUB!
